@@ -3,6 +3,10 @@ body {
 }
 h1{
     font-size : 80px;
+    color: white;
+}
+h4{
+  font-size: 40px;
 }
 .form,
 .greetings {
@@ -10,6 +14,7 @@ h1{
 }
 .showing {
     display: block;
+    color: white;
 } 
 @keyframes fadeIn {
     from {
